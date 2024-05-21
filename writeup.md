@@ -147,4 +147,4 @@ To further understand the Hospital VBP Program and access relevant data, refer t
 - **Jupyter Lab File**: `Project-1.ipynb` - Contains all the code and analysis for the project.
 - **Output Folder**: `output/` - Contains 15 figures answering the analysis questions.
 - **PDF Files**:`project_presentation.pdf` - Summarized presentation.
-  **Read Me**: `writeup.md` - Topic overview, summarized procedure and detailed results analysis.
+- **Read Me**: `writeup.md` - Topic overview, summarized procedure and detailed results analysis.
