@@ -83,7 +83,10 @@ Using Python and libraries such as Pandas, Pathlib, Matplotlib, and APIs, we per
 1. **Correlation with Total Performance Score:** Efficiency and Cost Reduction (0.65) and Safety (0.59) had the highest correlations with the Total Performance Score, but the relationship is not entirely linear due to weighted and normalized scores.
 2. **Relationship between Measures:** Low Pearson coefficients indicate no observed correlation among variables.
 3. **Hospital Ownership Analysis:** Voluntary non-profit hospitals show consistent performance. Government - State hospitals excel in Clinical Outcomes, while Safety and Person and Community Engagement metrics are high in Physician-owned hospitals.
-4. **State Performance:** Alaska has the highest VBP score with few hospitals. Oregon and Wisconsin excel both in high VBP scores and hospital count.
+   
+![image](https://github.com/user-attachments/assets/f51ef768-e2bc-4cc0-abf1-3f81b10d5fa9)
+
+5. **State Performance:** Alaska has the highest VBP score with few hospitals. Oregon and Wisconsin excel both in high VBP scores and hospital count.
 6. **Best Hospitals in the US:** High population density areas have more high-scoring hospitals. Top 25 hospitals are mostly Voluntary Non-Profit - Private.
 ![image](https://github.com/user-attachments/assets/6a5f4564-17b2-4dfc-8811-213f81b2137f)
 
