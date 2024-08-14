@@ -87,6 +87,9 @@ Using Python and libraries such as Pandas, Pathlib, Matplotlib, and APIs, we per
 5. **Best Hospitals in the US:** High population density areas have more high-scoring hospitals. Top 25 hospitals are mostly Voluntary Non-Profit - Private.
 6. **State-Census Variables:** No direct correlation, but indirect influences are observed. Slight negative relationships between Poverty Count/Rate and Total Performance Score, and a slight positive relationship between Per Capita Income and Total Performance Score.
 
+![image](https://github.com/user-attachments/assets/6a5f4564-17b2-4dfc-8811-213f81b2137f)
+
+
 ## Resources
 - [CMS.gov - Hospital Value-Based Purchasing](https://www.cms.gov)
 - [Data.Medicare.gov - Hospital Compare](https://data.medicare.gov)
