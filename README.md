@@ -84,11 +84,12 @@ Using Python and libraries such as Pandas, Pathlib, Matplotlib, and APIs, we per
 2. **Relationship between Measures:** Low Pearson coefficients indicate no observed correlation among variables.
 3. **Hospital Ownership Analysis:** Voluntary non-profit hospitals show consistent performance. Government - State hospitals excel in Clinical Outcomes, while Safety and Person and Community Engagement metrics are high in Physician-owned hospitals.
 4. **State Performance:** Alaska has the highest VBP score with few hospitals. Oregon and Wisconsin excel both in high VBP scores and hospital count.
-5. **Best Hospitals in the US:** High population density areas have more high-scoring hospitals. Top 25 hospitals are mostly Voluntary Non-Profit - Private.
-6. **State-Census Variables:** No direct correlation, but indirect influences are observed. Slight negative relationships between Poverty Count/Rate and Total Performance Score, and a slight positive relationship between Per Capita Income and Total Performance Score.
-
+6. **Best Hospitals in the US:** High population density areas have more high-scoring hospitals. Top 25 hospitals are mostly Voluntary Non-Profit - Private.
 ![image](https://github.com/user-attachments/assets/6a5f4564-17b2-4dfc-8811-213f81b2137f)
 
+![image](https://github.com/user-attachments/assets/fb8014d5-352c-4385-8758-89086272becd)
+
+8. **State-Census Variables:** No direct correlation, but indirect influences are observed. Slight negative relationships between Poverty Count/Rate and Total Performance Score, and a slight positive relationship between Per Capita Income and Total Performance Score.
 
 ## Resources
 - [CMS.gov - Hospital Value-Based Purchasing](https://www.cms.gov)
