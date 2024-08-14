@@ -83,6 +83,8 @@ Using Python and libraries such as Pandas, Pathlib, Matplotlib, and APIs, we per
 1. **Correlation with Total Performance Score:** Efficiency and Cost Reduction (0.65) and Safety (0.59) had the highest correlations with the Total Performance Score, but the relationship is not entirely linear due to weighted and normalized scores.
 2. **Relationship between Measures:** Low Pearson coefficients indicate no observed correlation among variables.
 3. **Hospital Ownership Analysis:** Voluntary non-profit hospitals show consistent performance. Government - State hospitals excel in Clinical Outcomes, while Safety and Person and Community Engagement metrics are high in Physician-owned hospitals.
+
+![Screenshot 2024-08-14 154154](https://github.com/user-attachments/assets/627b46b7-956c-4c02-a50a-73a7f894b794)
    
 ![image](https://github.com/user-attachments/assets/f51ef768-e2bc-4cc0-abf1-3f81b10d5fa9)
 
@@ -93,6 +95,8 @@ Using Python and libraries such as Pandas, Pathlib, Matplotlib, and APIs, we per
 ![image](https://github.com/user-attachments/assets/fb8014d5-352c-4385-8758-89086272becd)
 
 8. **State-Census Variables:** No direct correlation, but indirect influences are observed. Slight negative relationships between Poverty Count/Rate and Total Performance Score, and a slight positive relationship between Per Capita Income and Total Performance Score.
+
+![Screenshot 2024-08-14 154337](https://github.com/user-attachments/assets/52ca8dcb-c769-4a3b-b068-85b3462f0ca0)
 
 ## Resources
 - [CMS.gov - Hospital Value-Based Purchasing](https://www.cms.gov)
